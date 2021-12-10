@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-09T10:02:56Z" name="Suite" finished-at="2021-12-09T10:03:23Z" duration-ms="27234">
+    <groups>
+    </groups>
+    <test started-at="2021-12-09T10:02:56Z" name="Test" finished-at="2021-12-09T10:03:23Z" duration-ms="27234">
+      <class name="com.redus.test.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.redus.test.SearchTest@5c371e13]" started-at="2021-12-09T10:02:56Z" name="setup" finished-at="2021-12-09T10:03:03Z" duration-ms="7493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearch()[pri:0, instance:com.redus.test.SearchTest@5c371e13]" started-at="2021-12-09T10:03:03Z" name="verifySearch" finished-at="2021-12-09T10:03:23Z" duration-ms="19706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+      </class> <!-- com.redus.test.SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
